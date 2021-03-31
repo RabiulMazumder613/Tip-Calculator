@@ -24,6 +24,6 @@ There is a reset button if the user wants to correct/change something
 
 Here's a walkthrough of the Tip-Calculator:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='tip.gif' title='Video Walkthrough' width='550' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
